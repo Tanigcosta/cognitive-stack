@@ -377,7 +377,3 @@ print(result.output)
 5. Version stacks and route by task type.
 6. Test for stability, not just elegance.
 
-## License
-
-Add your preferred license before publishing.
->>>>>>> 9d3a9e6 (Initial commit)
