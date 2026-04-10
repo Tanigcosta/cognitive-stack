@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🧠 Cognitive Stack
 
 > A modular framework for designing and scaling LLM cognitive systems.
